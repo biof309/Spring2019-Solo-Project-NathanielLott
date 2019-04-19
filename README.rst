@@ -1,15 +1,14 @@
 =========
-myproject
+SpineVis
 =========
 
-
-Add a short description here!
+This program visualizes data output from Imaris Software (https://imaris.oxinst.com/).
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Imaging data analysis!
 
 
 Note
